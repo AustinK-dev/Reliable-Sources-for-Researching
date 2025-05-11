@@ -458,8 +458,614 @@ const resources = [
     title: "NASA Space Launch System (SLS)",
     description: "NASA’s next-generation heavy-lift rocket designed for deep space exploration, including missions to the Moon and Mars.",
     link: "https://www.nasa.gov/exploration/systems/sls"
-}
+},
+{
+  title: "American Mathematical Society (AMS)",
+  description: "A premier organization advancing research and scholarship in mathematics.",
+  link: "https://www.ams.org"
+},
+{
+  title: "Mathematics Stack Exchange",
+  description: "A Q&A site for people studying math at any level and professionals in related fields.",
+  link: "https://math.stackexchange.com"
+},
+{
+  title: "arXiv Mathematics",
+  description: "Open-access preprints of research papers in various fields of mathematics.",
+  link: "https://arxiv.org/archive/math"
+},
+{
+  title: "Wolfram MathWorld",
+  description: "An extensive and interactive mathematics encyclopedia for students and researchers.",
+  link: "https://mathworld.wolfram.com"
+},
+{
+  title: "OpenStax: Calculus & Algebra",
+  description: "Free, peer-reviewed, openly licensed textbooks for college-level math.",
+  link: "https://openstax.org/subjects/math"
+},
+{
+  title: "MIT OpenCourseWare – Mathematics",
+  description: "Free online math courses from the Massachusetts Institute of Technology.",
+  link: "https://ocw.mit.edu/courses/mathematics"
+},
+{
+  title: "Project Euclid",
+  description: "Platform for high-quality mathematics and statistics scholarship.",
+  link: "https://projecteuclid.org"
+},
+{
+  title: "Paul's Online Math Notes",
+  description: "A comprehensive set of free math tutorials for algebra, calculus, and differential equations.",
+  link: "https://tutorial.math.lamar.edu"
+},
+{
+  title: "Khan Academy – Math",
+  description: "Free educational resource offering video lessons and exercises in all areas of mathematics.",
+  link: "https://www.khanacademy.org/math"
+},
+{
+  title: "National Library of Virtual Manipulatives",
+  description: "Online interactive math tools for K–12 learners.",
+  link: "http://nlvm.usu.edu"
+},
+{
+  title: "Numberphile",
+  description: "Popular YouTube channel and website that explores interesting number facts and math topics.",
+  link: "https://www.numberphile.com"
+},
+{
+  title: "The On-Line Encyclopedia of Integer Sequences (OEIS)",
+  description: "A comprehensive database of integer sequences used in mathematical research.",
+  link: "https://oeis.org"
+},
+{
+  title: "Society for Industrial and Applied Mathematics (SIAM)",
+  description: "Advances in applied mathematics and computational science.",
+  link: "https://www.siam.org"
+},
+{
+  title: "Coursera – Mathematics Courses",
+  description: "University-level online math courses from global institutions.",
+  link: "https://www.coursera.org/browse/math-and-logic"
+},
+{
+  title: "edX – Math Courses",
+  description: "Online math courses from top universities like Harvard and MIT.",
+  link: "https://www.edx.org/learn/math"
+},
+{
+  title: "Brilliant.org – Math Learning",
+  description: "Interactive lessons in math, logic, and quantitative reasoning.",
+  link: "https://brilliant.org"
+},
+{
+  title: "NRICH Mathematics",
+  description: "A project by the University of Cambridge providing engaging math problems and games.",
+  link: "https://nrich.maths.org"
+},
+{
+  title: "Purplemath",
+  description: "Helpful math lessons, particularly for algebra students.",
+  link: "https://www.purplemath.com"
+},
+{
+  title: "Desmos",
+  description: "A powerful online graphing calculator and math learning platform.",
+  link: "https://www.desmos.com"
+},
+{
+  title: "Art of Problem Solving (AoPS)",
+  description: "Advanced math resources for middle and high school students, including an online school and books.",
+  link: "https://artofproblemsolving.com"
+},
+{
+  title: "Regents Exam Prep: Algebra 2 / Trigonometry",
+  description: "Comprehensive review materials, practice questions, and videos for Algebra 2 and Trigonometry, tailored to high school students preparing for exams.",
+  link: "https://www.regentsprep.org/algebra-2-trigonometry/"
+},
+{
+  title: "ScienceDaily",
+  description: "Your source for the latest research news in science, health, the environment, and technology.",
+  link: "https://www.sciencedaily.com"
+},
+{
+  title: "National Science Foundation (NSF)",
+  description: "An independent U.S. government agency that supports fundamental research and education in all non-medical fields of science and engineering.",
+  link: "https://www.nsf.gov"
+},
+{
+  title: "Nature",
+  description: "A leading international science journal publishing peer-reviewed research in all fields of science.",
+  link: "https://www.nature.com"
+},
+{
+  title: "Science (AAAS)",
+  description: "Science magazine from the American Association for the Advancement of Science, featuring news and research articles.",
+  link: "https://www.sciencemag.org"
+},
+{
+  title: "National Institutes of Health (NIH)",
+  description: "The U.S. medical research agency that supports scientific studies on health and disease.",
+  link: "https://www.nih.gov"
+},
+{
+  title: "Scientific American",
+  description: "Popular science magazine covering breakthroughs in science and technology.",
+  link: "https://www.scientificamerican.com"
+},
+{
+  title: "Live Science",
+  description: "Website covering a broad range of scientific topics, including biology, physics, space, and health.",
+  link: "https://www.livescience.com"
+},
+{
+  title: "New Scientist",
+  description: "Magazine providing news and features on scientific and technological developments worldwide.",
+  link: "https://www.newscientist.com"
+},
+{
+  title: "HowStuffWorks Science",
+  description: "Explains the science behind how everyday things work with clear, engaging articles and videos.",
+  link: "https://science.howstuffworks.com"
+},
+{
+  title: "Khan Academy Science",
+  description: "Free science lessons and exercises in physics, biology, chemistry, and more.",
+  link: "https://www.khanacademy.org/science"
+},
+{
+  title: "NASA Science",
+  description: "NASA’s science portal, covering Earth science, planetary science, astrophysics, and heliophysics.",
+  link: "https://science.nasa.gov"
+},
+{
+  title: "PBS NOVA",
+  description: "NOVA explores scientific discoveries with documentaries, videos, and articles.",
+  link: "https://www.pbs.org/wgbh/nova"
+},
+{
+  title: "Royal Society",
+  description: "The UK’s national academy of sciences, publishing research and promoting science education.",
+  link: "https://royalsociety.org"
+},
+{
+  title: "The Scientist",
+  description: "Magazine for life science professionals featuring the latest research and technology developments.",
+  link: "https://www.the-scientist.com"
+},
+{
+  title: "MIT OpenCourseWare – Science",
+  description: "Free online course materials from the Massachusetts Institute of Technology in various science subjects.",
+  link: "https://ocw.mit.edu/courses/science/"
+},
+{
+  title: "PLOS ONE",
+  description: "Open-access scientific journal covering research in all areas of science and medicine.",
+  link: "https://journals.plos.org/plosone/"
+},
+{
+  title: "Encyclopedia of Life (EOL)",
+  description: "Collaborative database of information on all known living species, including biology and environmental science data.",
+  link: "https://eol.org"
+},
+{
+  title: "Frontiers in Science",
+  description: "Open-access journals featuring articles in life sciences, health, and physical sciences.",
+  link: "https://www.frontiersin.org"
+},
+{
+  title: "ScienceNews",
+  description: "News site reporting on current events and discoveries in science, health, and technology.",
+  link: "https://www.sciencenews.org"
+},
+{
+  title: "Coursera Science Courses",
+  description: "Online science courses from top universities, covering physics, biology, chemistry, and environmental science.",
+  link: "https://www.coursera.org/browse/physical-science-and-engineering"
+},
+{
+  title: "Ethnologue",
+  description: "Comprehensive reference on the world's known living languages, including their classification and number of speakers.",
+  link: "https://www.ethnologue.com"
+},
+{
+  title: "Glottolog",
+  description: "Bibliographic database of the world’s languages, especially lesser-known languages.",
+  link: "https://glottolog.org"
+},
+{
+  title: "Linguistic Society of America (LSA)",
+  description: "Advances the scientific study of language and its applications.",
+  link: "https://www.linguisticsociety.org"
+},
+{
+  title: "Omniglot",
+  description: "Online encyclopedia of writing systems and languages.",
+  link: "https://www.omniglot.com"
+},
+{
+  title: "Duolingo",
+  description: "Popular app and website for learning languages through gamified lessons.",
+  link: "https://www.duolingo.com"
+},
+{
+  title: "BBC Languages (Archive)",
+  description: "Archived collection of language-learning resources in multiple languages.",
+  link: "http://www.bbc.co.uk/languages"
+},
+{
+  title: "MIT OpenCourseWare – Linguistics",
+  description: "Free course materials from MIT’s linguistics department.",
+  link: "https://ocw.mit.edu/courses/linguistics-and-philosophy/"
+},
+{
+  title: "Wikitongues",
+  description: "Nonprofit organization documenting every language in the world through videos and stories.",
+  link: "https://www.wikitongues.org"
+},
+{
+  title: "Oxford English Dictionary (OED)",
+  description: "Definitive record of the English language, tracking its development over time.",
+  link: "https://www.oed.com"
+},
+{
+  title: "Linguist List",
+  description: "Resource for linguistics research, jobs, conferences, and more.",
+  link: "https://linguistlist.org"
+},
+{
+  title: "Internet Polyglot",
+  description: "Free language learning platform offering vocabulary games and tools.",
+  link: "https://www.internetpolyglot.com"
+},
+{
+  title: "Open Culture – Free Language Lessons",
+  description: "Directory of free language-learning resources, including audio and video courses.",
+  link: "https://www.openculture.com/freelanguagelessons"
+},
+{
+  title: "Forvo",
+  description: "The largest pronunciation dictionary in the world, with native speaker audio clips.",
+  link: "https://forvo.com"
+},
+{
+  title: "University of Texas Linguistics Research Center",
+  description: "Provides language lessons and historical texts in ancient Indo-European languages.",
+  link: "https://lrc.la.utexas.edu"
+},
+{
+  title: "Cambridge Dictionary",
+  description: "Free dictionary with definitions, grammar, pronunciation, and translations.",
+  link: "https://dictionary.cambridge.org"
+},
+{
+  title: "Language Log",
+  description: "Academic blog on language and linguistics by professional linguists.",
+  link: "https://languagelog.ldc.upenn.edu"
+},
+{
+  title: "AnkiWeb",
+  description: "Free online flashcard system often used for language learning with spaced repetition.",
+  link: "https://ankiweb.net"
+},
+{
+  title: "Routledge Handbook of Linguistics",
+  description: "A comprehensive academic reference work for scholars and students of linguistics.",
+  link: "https://www.routledge.com"
+},
+{
+  title: "Speechling",
+  description: "Nonprofit language learning tool focused on pronunciation with real coaches.",
+  link: "https://speechling.com"
+},
+{
+  title: "Italki",
+  description: "Platform for finding native speakers and certified teachers for 1-on-1 language lessons.",
+  link: "https://www.italki.com"
+},
 
+  {
+    title: "NASA",
+    description: "The official site of the National Aeronautics and Space Administration with missions, news, and educational resources.",
+    link: "https://www.nasa.gov"
+  },
+  {
+    title: "European Space Agency (ESA)",
+    description: "Europe’s gateway to space, providing updates on missions, space science, and technology.",
+    link: "https://www.esa.int"
+  },
+  {
+    title: "Space.com",
+    description: "Comprehensive news and articles about space exploration, astronomy, and science fiction.",
+    link: "https://www.space.com"
+  },
+  {
+    title: "HubbleSite",
+    description: "Updates and discoveries from the Hubble Space Telescope, including images and educational tools.",
+    link: "https://hubblesite.org"
+  },
+  {
+    title: "NASA Solar System Exploration",
+    description: "Detailed information and media on planets, moons, and space missions in our solar system.",
+    link: "https://solarsystem.nasa.gov"
+  },
+  {
+    title: "Sky & Telescope",
+    description: "News, guides, and events for amateur astronomers and stargazers.",
+    link: "https://skyandtelescope.org"
+  },
+  {
+    title: "Jet Propulsion Laboratory (JPL)",
+    description: "A NASA research center focused on robotic space missions and exploration.",
+    link: "https://www.jpl.nasa.gov"
+  },
+  {
+    title: "Astronomy.com",
+    description: "A magazine site offering astronomy news, observing tips, and scientific discoveries.",
+    link: "https://www.astronomy.com"
+  },
+  {
+    title: "SpaceWeather.com",
+    description: "Up-to-date information on solar activity, auroras, and other space weather phenomena.",
+    link: "https://www.spaceweather.com"
+  },
+  {
+    title: "International Space Station (ISS)",
+    description: "Real-time data, mission updates, and educational materials about the ISS.",
+    link: "https://www.nasa.gov/mission_pages/station/main/index.html"
+  },
+  {
+    title: "SETI Institute",
+    description: "Exploring the universe for signs of intelligent life with research and educational outreach.",
+    link: "https://www.seti.org"
+  },
+  {
+    title: "Planetary Society",
+    description: "A nonprofit organization promoting space science and exploration through advocacy and education.",
+    link: "https://www.planetary.org"
+  },
+  {
+    title: "Heavens-Above",
+    description: "Track satellites, planets, and the International Space Station in real-time.",
+    link: "https://heavens-above.com"
+  },
+  {
+    title: "NASA Earth Observatory",
+    description: "Observations of Earth's climate and environmental changes from space.",
+    link: "https://earthobservatory.nasa.gov"
+  },
+  {
+    title: "SpaceX",
+    description: "Private aerospace company's updates on space missions and technology advancements.",
+    link: "https://www.spacex.com"
+  },
+  {
+    title: "NASA Exoplanet Exploration",
+    description: "Exploring planets beyond our solar system with data, graphics, and learning tools.",
+    link: "https://exoplanets.nasa.gov"
+  },
+  {
+    title: "NOIRLab",
+    description: "U.S. ground-based astronomical observatories and programs delivering data and public outreach.",
+    link: "https://noirlab.edu"
+  },
+  {
+    title: "Chandra X-ray Observatory",
+    description: "NASA’s space telescope for X-ray astronomy focused on black holes and high-energy cosmic phenomena.",
+    link: "https://chandra.harvard.edu"
+  },
+  {
+    title: "James Webb Space Telescope (JWST)",
+    description: "The next-generation space telescope exploring the early universe, galaxies, and exoplanets.",
+    link: "https://jwst.nasa.gov"
+  },
+  {
+    title: "NASA’s Artemis Program",
+    description: "Mission to return humans to the Moon and prepare for Mars exploration.",
+    link: "https://www.nasa.gov/specials/artemis/"
+  },
+  {
+    title: "NASA",
+    description: "The official site of the National Aeronautics and Space Administration with missions, news, and educational resources.",
+    link: "https://www.nasa.gov"
+  },
+  {
+    title: "European Space Agency (ESA)",
+    description: "Europe's gateway to space, providing updates on missions, space science, and technology.",
+    link: "https://www.esa.int"
+  },
+  {
+    title: "Space.com",
+    description: "Comprehensive news and articles about space exploration, astronomy, and science fiction.",
+    link: "https://www.space.com"
+  },
+  {
+    title: "HubbleSite",
+    description: "Updates and discoveries from the Hubble Space Telescope, including images and educational tools.",
+    link: "https://hubblesite.org"
+  },
+  {
+    title: "NASA Solar System Exploration",
+    description: "Detailed information and media on planets, moons, and space missions in our solar system.",
+    link: "https://solarsystem.nasa.gov"
+  },
+  {
+    title: "Sky & Telescope",
+    description: "News, guides, and events for amateur astronomers and stargazers.",
+    link: "https://skyandtelescope.org"
+  },
+  {
+    title: "Jet Propulsion Laboratory (JPL)",
+    description: "A NASA research center focused on robotic space missions and exploration.",
+    link: "https://www.jpl.nasa.gov"
+  },
+  {
+    title: "Astronomy.com",
+    description: "A magazine site offering astronomy news, observing tips, and scientific discoveries.",
+    link: "https://www.astronomy.com"
+  },
+  {
+    title: "SpaceWeather.com",
+    description: "Up-to-date information on solar activity, auroras, and other space weather phenomena.",
+    link: "https://www.spaceweather.com"
+  },
+  {
+    title: "International Space Station (ISS)",
+    description: "Real-time data, mission updates, and educational materials about the ISS.",
+    link: "https://www.nasa.gov/mission_pages/station/main/index.html"
+  },
+  {
+    title: "SETI Institute",
+    description: "Exploring the universe for signs of intelligent life with research and educational outreach.",
+    link: "https://www.seti.org"
+  },
+  {
+    title: "Planetary Society",
+    description: "A nonprofit organization promoting space science and exploration through advocacy and education.",
+    link: "https://www.planetary.org"
+  },
+  {
+    title: "Heavens-Above",
+    description: "Track satellites, planets, and the International Space Station in real-time.",
+    link: "https://heavens-above.com"
+  },
+  {
+    title: "NASA Earth Observatory",
+    description: "Observations of Earth's climate and environmental changes from space.",
+    link: "https://earthobservatory.nasa.gov"
+  },
+  {
+    title: "SpaceX",
+    description: "Private aerospace company's updates on space missions and technology advancements.",
+    link: "https://www.spacex.com"
+  },
+  {
+    title: "NASA Exoplanet Exploration",
+    description: "Exploring planets beyond our solar system with data, graphics, and learning tools.",
+    link: "https://exoplanets.nasa.gov"
+  },
+  {
+    title: "NOIRLab",
+    description: "U.S. ground-based astronomical observatories and programs delivering data and public outreach.",
+    link: "https://noirlab.edu"
+  },
+  {
+    title: "Chandra X-ray Observatory",
+    description: "NASA’s space telescope for X-ray astronomy focused on black holes and high-energy cosmic phenomena.",
+    link: "https://chandra.harvard.edu"
+  },
+  {
+    title: "James Webb Space Telescope (JWST)",
+    description: "The next-generation space telescope exploring the early universe, galaxies, and exoplanets.",
+    link: "https://jwst.nasa.gov"
+  },
+  {
+    title: "NASA’s Artemis Program",
+    description: "Mission to return humans to the Moon and prepare for Mars exploration.",
+    link: "https://www.nasa.gov/specials/artemis/"
+  },
+  {
+    title: "The World Bank",
+    description: "Provides financial and technical assistance to developing countries for development projects.",
+    link: "https://www.worldbank.org"
+  },
+  {
+    title: "International Monetary Fund (IMF)",
+    description: "Promotes international monetary cooperation and financial stability.",
+    link: "https://www.imf.org"
+  },
+  {
+    title: "OECD - Organization for Economic Cooperation and Development",
+    description: "Provides economic analysis and recommendations for policy improvement.",
+    link: "https://www.oecd.org"
+  },
+  {
+    title: "Federal Reserve Economic Data (FRED)",
+    description: "An online database providing access to economic data and financial indicators.",
+    link: "https://fred.stlouisfed.org"
+  },
+  {
+    title: "Bureau of Economic Analysis (BEA)",
+    description: "Provides important economic statistics on U.S. economic performance and growth.",
+    link: "https://www.bea.gov"
+  },
+  {
+    title: "World Economic Forum",
+    description: "An international organization focused on improving the state of the world through economic initiatives.",
+    link: "https://www.weforum.org"
+  },
+  {
+    title: "The Economist",
+    description: "Provides in-depth news and analysis on global economic trends.",
+    link: "https://www.economist.com"
+  },
+  {
+    title: "National Bureau of Economic Research (NBER)",
+    description: "A private nonprofit organization that conducts economic research.",
+    link: "https://www.nber.org"
+  },
+  {
+    title: "Economist Intelligence Unit (EIU)",
+    description: "Provides economic and market intelligence and research on global economic conditions.",
+    link: "https://www.eiu.com"
+  },
+  {
+    title: "Trading Economics",
+    description: "Provides information on economic indicators, historical data, and forecasts.",
+    link: "https://tradingeconomics.com"
+  },
+  {
+    title: "Bank for International Settlements (BIS)",
+    description: "The international financial institution supporting central banks in achieving monetary and financial stability.",
+    link: "https://www.bis.org"
+  },
+  {
+    title: "Cato Institute",
+    description: "A think tank focused on the advancement of economic freedom and limited government.",
+    link: "https://www.cato.org"
+  },
+  {
+    title: "Heritage Foundation - Economic Freedom",
+    description: "Provides analysis and commentary on economic freedom and its role in prosperity.",
+    link: "https://www.heritage.org"
+  },
+  {
+    title: "U.S. Census Bureau Economic Indicators",
+    description: "Provides data on economic indicators and demographic information about the U.S.",
+    link: "https://www.census.gov/economic-indicators"
+  },
+  {
+    title: "Brookings Institution - Economic Studies",
+    description: "Conducts research and provides policy recommendations for economic and social issues.",
+    link: "https://www.brookings.edu/topic/economic-studies/"
+  },
+  {
+    title: "MIT Economics Department",
+    description: "Offers research, data, and educational materials related to economics.",
+    link: "https://economics.mit.edu"
+  },
+  {
+    title: "Harvard University Economics Department",
+    description: "Provides access to resources, research, and publications in the field of economics.",
+    link: "https://economics.harvard.edu"
+  },
+  {
+    title: "Institute for Fiscal Studies (IFS)",
+    description: "A UK-based research institute focusing on economic and fiscal policy.",
+    link: "https://www.ifs.org.uk"
+  },
+  {
+    title: "IMF Data",
+    description: "Provides data on international monetary systems, global economic conditions, and forecasts.",
+    link: "https://www.imf.org/en/Data"
+  },
+  {
+    title: "The Conference Board",
+    description: "A global research organization providing data on economic trends and leading indicators.",
+    link: "https://www.conference-board.org"
+  },
+  
 ];
 
 
