@@ -233,7 +233,233 @@ const resources = [
     title: "Dryad",
     description: "Open data repository for research data underlying scientific and medical publications.",
     link: "https://datadryad.org"
-  }
+  },
+  {
+    title: "NASA",
+    description: "The United States government agency responsible for space exploration, research, and development.",
+    link: "https://www.nasa.gov"
+},
+{
+    title: "European Space Agency (ESA)",
+    description: "Intergovernmental organization dedicated to the exploration of space, working on various scientific missions.",
+    link: "https://www.esa.int"
+},
+{
+    title: "SpaceX",
+    description: "Private aerospace manufacturer and space transport company focused on reducing space transportation costs.",
+    link: "https://www.spacex.com"
+},
+{
+    title: "Space.com",
+    description: "A comprehensive website offering space news, space exploration, astronomy, and science content.",
+    link: "https://www.space.com"
+},
+{
+    title: "Hubble Space Telescope",
+    description: "Space-based observatory that provides high-resolution images of galaxies, nebulae, and other astronomical objects.",
+    link: "https://hubblesite.org"
+},
+{
+    title: "NASA Astrobiology Institute",
+    description: "Research institute focused on studying the potential for life on other planets and in extreme environments on Earth.",
+    link: "https://astrobiology.nasa.gov"
+},
+{
+    title: "National Radio Astronomy Observatory (NRAO)",
+    description: "Provides access to high-quality radio astronomy data and research tools, supporting a wide range of scientific research.",
+    link: "https://public.nrao.edu"
+},
+{
+    title: "The Planetary Society",
+    description: "Non-profit organization advocating for the exploration of space and providing educational resources about planets and space missions.",
+    link: "https://www.planetary.org"
+},
+{
+    title: "AstroPhysics",
+    description: "Research and development in the field of space physics, with a focus on the study of the universe's fundamental components.",
+    link: "https://www.astro-physics.com"
+},
+{
+    title: "International Space Station (ISS)",
+    description: "A large spacecraft that orbits Earth, providing a unique laboratory for scientific research in space.",
+    link: "https://www.nasa.gov/mission_pages/station/main/index.html"
+},
+{
+    title: "JAXA (Japan Aerospace Exploration Agency)",
+    description: "Japan's space agency, which leads scientific exploration of space and development of new space technologies.",
+    link: "https://www.jaxa.jp"
+},
+{
+    title: "NASA Solar System Exploration",
+    description: "Dedicated to exploring the solar system and beyond, including missions to other planets and moons.",
+    link: "https://solarsystem.nasa.gov"
+},
+{
+    title: "SLS (Space Launch System)",
+    description: "NASA’s next-generation launch vehicle designed to send humans to the Moon and Mars.",
+    link: "https://www.nasa.gov/exploration/systems/sls"
+},
+{
+    title: "Astrobiology Research Center",
+    description: "Research center focusing on astrobiology, the study of life in the universe.",
+    link: "http://astrobiologycenter.org"
+},
+{
+    title: "SETI Institute",
+    description: "Non-profit research institute dedicated to the search for extraterrestrial intelligence and space science education.",
+    link: "https://www.seti.org"
+},
+{
+    title: "Planetary Data System",
+    description: "NASA’s archive for planetary data, making the data from space missions available to the public.",
+    link: "https://pds.nasa.gov"
+},
+{
+    title: "Hubble Heritage Project",
+    description: "A project that compiles stunning images from the Hubble Space Telescope into galleries and educational content.",
+    link: "https://heritage.stsci.edu"
+},
+{
+    title: "Mars Society",
+    description: "Non-profit organization focused on the exploration and colonization of Mars.",
+    link: "https://www.marssociety.org"
+},
+{
+    title: "Astronomy Picture of the Day (APOD)",
+    description: "A NASA website featuring daily astronomical images and explanations.",
+    link: "https://apod.nasa.gov/apod/astropix.html"
+},
+{
+    title: "The Space Review",
+    description: "A publication that covers the business, policy, and technical aspects of space exploration.",
+    link: "https://thespacereview.com"
+},
+{
+    title: "Space Weather",
+    description: "A NASA website that provides information on space weather events and their impacts on Earth.",
+    link: "https://www.spaceweather.gov"
+},
+{
+    title: "The Astronomical Journal",
+    description: "A peer-reviewed journal publishing research in all areas of astronomy and astrophysics.",
+    link: "https://iopscience.iop.org/journal/1538-3881"
+},
+{
+    title: "American Astronomical Society",
+    description: "The leading organization for professionals in the field of astronomy and astrophysics.",
+    link: "https://aas.org"
+},
+{
+    title: "NASA Jet Propulsion Laboratory",
+    description: "A NASA center dedicated to the development of robotic space missions to explore the solar system and beyond.",
+    link: "https://www.jpl.nasa.gov"
+},
+{
+    title: "Space Weather Prediction Center",
+    description: "A NOAA center that forecasts space weather events and their effects on Earth.",
+    link: "https://www.swpc.noaa.gov"
+},
+{
+    title: "The Royal Astronomical Society",
+    description: "A professional society for astronomers, astrophysicists, and geophysicists.",
+    link: "https://ras.ac.uk"
+},
+{
+    title: "Astronomical Society of the Pacific",
+    description: "A membership-based organization promoting the science of astronomy and science education.",
+    link: "https://www.astrosociety.org"
+},
+{
+    title: "ESA Space Science",
+    description: "The European Space Agency's section dedicated to space science and related missions.",
+    link: "https://www.esa.int/Science_Exploration/Space_Science"
+},
+{
+    title: "NASA Earth Science Division",
+    description: "Focuses on Earth observation, including the study of climate, oceans, atmosphere, and more.",
+    link: "https://earthscience.nasa.gov"
+},
+{
+    title: "Lunar and Planetary Institute",
+    description: "Institute dedicated to advancing the study of planetary science and space exploration.",
+    link: "https://www.lpi.usra.edu"
+},
+{
+    title: "Exoplanet Exploration Program",
+    description: "NASA’s program dedicated to finding and studying planets outside of our solar system.",
+    link: "https://exoplanets.nasa.gov"
+},
+{
+    title: "Space.com",
+    description: "Offers space news, space exploration, astronomy, and science content.",
+    link: "https://www.space.com"
+},
+{
+    title: "Sky & Telescope",
+    description: "A popular science magazine that offers the latest astronomy news, telescope reviews, and sky events.",
+    link: "https://skyandtelescope.org"
+},
+{
+    title: "Space News",
+    description: "Provides updates on the latest developments in space exploration, technology, and policy.",
+    link: "https://spacenews.com"
+},
+{
+    title: "International Astronomical Union (IAU)",
+    description: "The worldwide organization of professional astronomers that promotes and organizes global astronomy research.",
+    link: "https://www.iau.org"
+},
+{
+    title: "NASA's Kepler Space Telescope",
+    description: "NASA mission designed to discover Earth-like planets orbiting other stars.",
+    link: "https://www.nasa.gov/mission_pages/kepler/main/index.html"
+},
+{
+    title: "SpaceX Mars Mission",
+    description: "SpaceX’s plans for sending humans to Mars with the development of the Starship spacecraft.",
+    link: "https://www.spacex.com/mars"
+},
+{
+    title: "International Space Station Research",
+    description: "Research conducted aboard the ISS that contributes to our understanding of space and science.",
+    link: "https://www.nasa.gov/mission_pages/station/research"
+},
+{
+    title: "Astrobiology Institute",
+    description: "Focuses on the study of the origins, evolution, and distribution of life in the universe.",
+    link: "https://astrobiology.nasa.gov"
+},
+{
+    title: "James Webb Space Telescope",
+    description: "NASA's next-generation space telescope designed to study the universe in infrared wavelengths.",
+    link: "https://webb.nasa.gov"
+},
+{
+    title: "Planetary Society's LightSail",
+    description: "Project to demonstrate solar sail technology for space exploration.",
+    link: "https://www.planetary.org/space-policy-and-advocacy/lightsail"
+},
+{
+    title: "NASA's Artemis Program",
+    description: "NASA's program to return humans to the Moon by 2025 and set the stage for human exploration of Mars.",
+    link: "https://www.nasa.gov/specials/artemis"
+},
+{
+    title: "Cosmology@Home",
+    description: "Distributed computing project that simulates the universe to gain insights into cosmology and dark energy.",
+    link: "https://cosmologyathome.org"
+},
+{
+    title: "NASA's Space Technology Mission Directorate",
+    description: "Develops advanced technologies to help NASA achieve its missions, including space exploration and aeronautics.",
+    link: "https://www.nasa.gov/directorates/spacetech"
+},
+{
+    title: "NASA Space Launch System (SLS)",
+    description: "NASA’s next-generation heavy-lift rocket designed for deep space exploration, including missions to the Moon and Mars.",
+    link: "https://www.nasa.gov/exploration/systems/sls"
+}
+
 ];
 
 
