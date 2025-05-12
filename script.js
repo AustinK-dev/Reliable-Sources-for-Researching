@@ -201,22 +201,6 @@ const resources = [
   { title: "Common Crawl", description: "Non‑profit project providing monthly open web‑crawl data sets—petabytes of raw web text for NLP and ML.", link: "https://commoncrawl.org" },
   { title: "CourtListener (RECAP Archive)", description: "Free database of U.S. court opinions, oral‑argument audio, and millions of PACER filings maintained by the Free Law Project.", link: "https://www.courtlistener.com" },
   { title: "Wikimedia Commons", description: "Repository of 95 million+ freely licensed images, audio, and video files that anyone can use and remix.", link: "https://commons.wikimedia.org" },
-  { title: "Creative Commons Openverse", description: "Search engine from Creative Commons indexing millions of openly licensed images and audio clips across the web.", link: "https://openverse.org" },
-  { title: "NCBI GenBank", description: "Comprehensive public database of nucleotide sequences with rich biological annotation, maintained by the U.S. NIH’s National Center for Biotechnology Information.", link: "https://www.ncbi.nlm.nih.gov/genbank/" },
-  { title: "European Nucleotide Archive (ENA)", description: "European repository for raw sequencing reads, assemblies, and functional genomics data hosted by EMBL‑EBI.", link: "https://www.ebi.ac.uk/ena" },
-  { title: "PRIDE Archive", description: "Open repository of mass‑spectrometry‑based proteomics datasets, part of EMBL‑EBI’s Proteomics Services.", link: "https://www.ebi.ac.uk/pride/" },
-  { title: "ClinicalTrials.gov", description: "U.S. National Library of Medicine registry and results database of publicly and privately funded clinical studies worldwide.", link: "https://clinicaltrials.gov" },
-  { title: "WHO ICTRP", description: "World Health Organization International Clinical Trials Registry Platform aggregating data from primary registries to promote transparency.", link: "https://trialsearch.who.int" },
-  { title: "ICPSR Data Archive", description: "Curated social‑science data repository at the University of Michigan with 18 000+ datasets for research and teaching.", link: "https://www.icpsr.umich.edu" },
-  { title: "FRED (Federal Reserve Economic Data)", description: "St. Louis Fed’s open database of 800 000+ U.S. and international macro‑ and micro‑economic time‑series.", link: "https://fred.stlouisfed.org" },
-  { title: "NBER Working Papers", description: "National Bureau of Economic Research preprint series covering economics, health, and public policy topics.", link: "https://www.nber.org/papers" },
-  { title: "World Inequality Database (WID.world)", description: "Open global repository of income and wealth distribution statistics compiled by academic researchers.", link: "https://wid.world" },
-  { title: "NOAA NCEI", description: "World’s largest archive of climate, ocean, and geophysical observations, run by the National Centers for Environmental Information.", link: "https://www.ncei.noaa.gov" },
-  { title: "IRIS DMC", description: "Global seismological waveform and metadata repository supported by the Incorporated Research Institutions for Seismology.", link: "https://ds.iris.edu/ds/nodes/dmc" },
-  { title: "LAION‑5B", description: "Open large‑scale dataset of 5 billion image–text pairs for computer‑vision research released by the LAION project.", link: "https://laion.ai/blog/laion-5b/" },
-  { title: "Common Crawl", description: "Non‑profit project providing monthly open web‑crawl data sets—petabytes of raw web text for NLP and ML.", link: "https://commoncrawl.org" },
-  { title: "CourtListener (RECAP Archive)", description: "Free database of U.S. court opinions, oral‑argument audio, and millions of PACER filings maintained by the Free Law Project.", link: "https://www.courtlistener.com" },
-  { title: "Wikimedia Commons", description: "Repository of 95 million+ freely licensed images, audio, and video files that anyone can use and remix.", link: "https://commons.wikimedia.org" },
   { title: "Creative Commons Openverse", description: "Search engine from Creative Commons indexing millions of openly licensed images and audio clips across the web.", link: "https://openverse.org" }
 ] 
 
